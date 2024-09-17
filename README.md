@@ -29,7 +29,7 @@ Aqui estão algumas das ferramentas e tecnologias que estou aprendendo e trabalh
 
 ## 📂 Projetos
 
-### **1. Jogo do Número Secreto**
+### **1. Jogo do Número Secreto** [https://jogodonumerosecreto-omega-red.vercel.app/]
 Este jogo foi desenvolvido como parte dos estudos na plataforma Alura, durante o curso de Lógica de Programação. A Alura oferece uma ampla gama de cursos focados em desenvolvimento, design, marketing e muito mais, e foi fundamental para a construção desse projeto, que tem como objetivo aplicar conceitos práticos de **JavaScript**.
 
 ### **2. API de E-commerce com Sistema de Carrinho de Compras**  
